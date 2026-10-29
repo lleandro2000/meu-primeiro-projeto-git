@@ -1,0 +1,10 @@
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos de configuração local
+.env
+
+# Diretórios de ferramentas Python
+__pycache__/
+.venv/
